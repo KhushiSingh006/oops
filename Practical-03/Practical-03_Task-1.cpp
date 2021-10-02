@@ -1,5 +1,5 @@
 #include<iostream.h>
-using name sapce std;
+using namespace std;
 
 {
 cout<<hello world;
